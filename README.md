@@ -1,2 +1,1 @@
-# data-portfolio-ganga-sreelekha
-Power BI Dashboards, Python ML Models, and Data Analytics Projects
+Welcome to my **Data Portfolio**! This repository showcases the projects I have self-learned and developed in **Power BI**, **Python Machine Learning**, and **Data Analytics**. It demonstrates my ability to work with real-world datasets, build interactive dashboards, implement predictive models, and extract actionable insights.
