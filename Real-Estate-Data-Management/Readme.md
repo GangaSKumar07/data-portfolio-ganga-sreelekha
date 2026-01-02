@@ -1,6 +1,6 @@
 # Real Estate Data Management Portfolio
 
-This portfolio demonstrates my skills in **Excel** and **Power BI** through a comprehensive real estate data management project. The project focuses on managing and analyzing data for **landlords, properties, clients, and transactions**, with actionable insights for property management and revenue optimization.
+This portfolio demonstrates my skills in **Excel** through a comprehensive real estate data management project. The project focuses on managing and analyzing data for **landlords, properties, clients, and transactions**, with actionable insights for property management and revenue optimization.
 
 ## Excel Tasks
 
