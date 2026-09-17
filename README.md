@@ -6,7 +6,7 @@ I have expanded my expertise into **Data Analytics and Data Science**, with hand
 
 This portfolio showcases my practical work across **Data Analytics, Business Intelligence, Machine Learning, and Banking/Credit Risk Analytics**. My projects demonstrate my ability to work with real-world datasets, integrate and analyze data from multiple sources, build interactive dashboards, develop predictive models, evaluate model performance, and communicate data-driven insights.
 
-### 🔍 Areas of Focus
+### Areas of Focus
 
 -  **Data Analytics & EDA**
 -  **Python & Data Science**
