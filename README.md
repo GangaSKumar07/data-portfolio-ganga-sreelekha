@@ -23,11 +23,11 @@ Explore my projects below to see my approach to solving **data, analytics, and b
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 Here are some of my key projects across **Data Science, Machine Learning, Data Analytics, Banking, and Business Intelligence**.
 
-### 🏦 Bank Good Credit – Credit Risk Analytics
+### Bank Good Credit – Credit Risk Analytics
 **MySQL | Python | Pandas | Machine Learning | ROC | AUC | Gini**
 
 Banking credit-risk analytics project involving multiple related database tables. The project covers data integration using `Customer_Number`, data cleaning, missing-value treatment, feature engineering, customer-level aggregation, predictive modelling, and model evaluation using ROC-AUC and Gini.
@@ -36,16 +36,16 @@ Banking credit-risk analytics project involving multiple related database tables
 
 ---
 
-### ✈️ Flight Fare Prediction
+###  Flight Fare Prediction
 **Python | Pandas | Scikit-learn | XGBoost | Machine Learning**
 
 Machine learning regression project focused on predicting flight fares. Implemented data preprocessing, categorical encoding, model comparison, and hyperparameter tuning using `RandomizedSearchCV`.
 
-**🔗 View Project**
+** View Project**
 
 ---
 
-### 🏦 Portuguese Bank Marketing – Classification
+###  Portuguese Bank Marketing – Classification
 **Python | Pandas | Scikit-learn | Classification**
 
 Classification project using banking marketing data to predict campaign outcomes. Applied preprocessing pipelines and multiple classification algorithms and evaluated model performance using classification metrics.
@@ -54,7 +54,7 @@ Classification project using banking marketing data to predict campaign outcomes
 
 ---
 
-### 📊 Financial KPI Dashboard
+### Financial KPI Dashboard
 **Power BI | DAX | Power Query | Data Visualization**
 
 Interactive Power BI dashboard designed to analyze financial KPIs and present business performance through visual reporting.
@@ -63,7 +63,7 @@ Interactive Power BI dashboard designed to analyze financial KPIs and present bu
 
 ---
 
-### 👥 Customer Churn Dashboard
+### Customer Churn Dashboard
 **Power BI | DAX | Data Analytics | Visualization**
 
 Interactive dashboard focused on analyzing customer churn patterns, KPIs, and customer-related business insights.
@@ -72,7 +72,7 @@ Interactive dashboard focused on analyzing customer churn patterns, KPIs, and cu
 
 ---
 
-### 🏦 Banking Transactions Dashboard
+### Banking Transactions Dashboard
 **Power BI | Data Analytics | Data Visualization**
 
 Interactive Power BI dashboard for analyzing banking transaction data and identifying trends and business insights.
@@ -81,7 +81,7 @@ Interactive Power BI dashboard for analyzing banking transaction data and identi
 
 ---
 
-### 🏠 Real Estate Data Analytics
+### Real Estate Data Analytics
 **Power BI | Excel | Data Analysis**
 
 Data analytics project involving real-estate data management, analysis, visualization, and dashboard development.
@@ -92,9 +92,9 @@ Data analytics project involving real-estate data management, analysis, visualiz
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 🐍 Programming & Data Science
+###  Programming & Data Science
 - Python
 - Pandas
 - NumPy
@@ -105,7 +105,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - Data Cleaning
 - Feature Engineering
 
-### 🤖 Machine Learning
+###  Machine Learning
 - Regression
 - Classification
 - Linear Regression
@@ -119,7 +119,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - Model Evaluation
 - Hyperparameter Tuning
 
-### 🗄️ SQL & Databases
+###  SQL & Databases
 - SQL
 - Oracle SQL
 - PL/SQL
@@ -131,7 +131,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - Performance Tuning
 - Indexing
 
-### 📊 Business Intelligence & Visualization
+###  Business Intelligence & Visualization
 - Power BI
 - DAX
 - Power Query
@@ -142,7 +142,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - MIS Reporting
 - Advanced Excel
 
-### 🏦 Banking & Enterprise Technology
+###  Banking & Enterprise Technology
 - Finacle v11x
 - Core Banking
 - Banking & Financial Data
@@ -153,7 +153,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - SIT / UAT
 - Application Support
 
-### 🔧 Tools
+###  Tools
 - Git / GitHub
 - JIRA
 - WinSCP
@@ -163,7 +163,7 @@ Data analytics project involving real-estate data management, analysis, visualiz
 - Visual Studio Code
 
 ---
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Infosys Limited
 **Systems Engineer | Feb 2022 – Jan 2025**
@@ -186,9 +186,6 @@ Worked on enterprise banking applications and reporting solutions, with a focus 
 `Finacle v11x` `Oracle SQL` `PL/SQL` `JasperReports` `JRXML` `JIRA` `WinSCP` `Git` `Oracle SQL Developer`
 
 ---
-
----
-
 ## Education & Certifications
 
 ### NASSCOM / FutureSkills Prime – Certified Data Scientist
@@ -217,7 +214,7 @@ Successfully completed the DataMites Certified Data Scientist program, including
 **Phase-3 Internship/Project Credits | 2026**
 - Completed all five required internship/project credits.
 - Applied Data Science, Python, SQL, data analysis, machine learning, and visualization techniques through practical projects.
-- Internship completion certificate: **To be added**
+
 
 ---
 
