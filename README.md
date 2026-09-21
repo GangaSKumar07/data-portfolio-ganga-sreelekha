@@ -219,7 +219,7 @@ Successfully completed the DataMites Certified Data Scientist program, including
 
 ---
 
-###Bachelor of Technology (B.Tech)
+### Bachelor of Technology (B.Tech)
 **Electrical & Electronics Engineering**  
 APJ Abdul Kalam Technological University, Kerala, India  
 **2016 – 2020 | GPA: 8.14/10**
