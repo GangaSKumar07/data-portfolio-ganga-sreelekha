@@ -187,39 +187,55 @@ Worked on enterprise banking applications and reporting solutions, with a focus 
 `Finacle v11x` `Oracle SQL` `PL/SQL` `JasperReports` `JRXML` `JIRA` `WinSCP` `Git` `Oracle SQL Developer`
 
 ---
-## Education & Certifications
+---
+
+##  Education & Certifications
 
 ### NASSCOM / FutureSkills Prime – Certified Data Scientist
-**Certified Data Scientist | 2026**
-Successfully completed the Data Science certification assessment through FutureSkills Prime.
-**Areas:** Data Science | Python | Statistics | Machine Learning | Data Analytics
+
+**Certified Data Scientist | Gold Category | 2026**
+
+Successfully cleared the **Certified Data Scientist** assessment through FutureSkills Prime, aligned to competency standards developed by the **IT-ITeS Sector Skills Council, NASSCOM**.
+
+- **Certification:** Certified Data Scientist
+- **Category:** Gold
+- **Assessment Score:** 76%
+- **Date of Issue:** 21 September 2026
+- **Certification ID:** FSP/2026/9/10392790
 
 ---
 
-###  DataMites – Certified Data Scientist
-**Final Course Completion | 2026**
-Successfully completed the DataMites Certified Data Scientist program, including training in:
-- Python
-- MySQL
-- MongoDB
-- Statistics
-- Power BI
-- Machine Learning
-- Introductory Deep Learning
-- Data Science projects
-- Phase-3 internship/project credits
+###  DataMites – Certified Data Scientist (CDS)
+
+**Certified Data Scientist | 2026**
+
+Successfully completed the **DataMites Certified Data Scientist (CDS)** program.
+
+- **Training Duration:** 120 Hours
+- **Course Duration:** 19 January – 21 May 2026
+- **Course:** Certified Data Scientist
+- **Certificate No.:** 99260853644453
+
+Training included:
+
+`Python` `MySQL` `MongoDB` `Statistics` `Power BI` `Machine Learning` `Deep Learning` `Data Science`
 
 ---
 
 ### Projects / Internship
-**Phase-3 Internship/Project Credits | 2026**
-- Completed all five required internship/project credits.
-- Applied Data Science, Python, SQL, data analysis, machine learning, and visualization techniques through practical projects.
 
+**Phase-3 Internship / Project Credits | 2026**
+
+- Completed all five required internship/project credits.
+- Applied Python, SQL, data analysis, machine learning, and visualization techniques through practical projects.
+- Worked on practical datasets and project-based Data Science assignments.
 
 ---
 
-### Bachelor of Technology (B.Tech)
+###  Bachelor of Technology (B.Tech)
+
 **Electrical & Electronics Engineering**  
 APJ Abdul Kalam Technological University, Kerala, India  
 **2016 – 2020 | GPA: 8.14/10**
+
+---
