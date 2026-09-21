@@ -1,4 +1,5 @@
-# Welcome to My Data Portfolio
+
+## Welcome to My Data Portfolio
 
 Hi, I'm **Ganga Sreelekha Kumar**, a data-focused IT professional with **3+ years of enterprise banking experience at Infosys**, specializing in **SQL/PLSQL, data validation, reporting, and financial data systems**.
 
